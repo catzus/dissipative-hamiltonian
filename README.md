@@ -5,7 +5,7 @@ The main goal of my project is to develop mathematical tools to describe the dis
 
 Contents
 [Thesis](PHYS449_Thesis_sub.pdf) 
-[Code](thesis_code.ipynb) 
-[Demonstration: DHM](DHM_0328_points.gif)  
+[Code](thesis_code.ipynb)   
+[Demonstration: DHM](DHM_0328_points.gif)    
 [Demonstration: SHM](SHM_0328_points.gif)  
 [Demonstration: falling ball](fallingballwithdrag0417.gif)
